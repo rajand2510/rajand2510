@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rajandalvadi2510@gmail.com**
 <p align="center">
-  <img src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
+  <img src="https://images.app.goo.gl/actPxDRFwFHgSL299" alt="Banner">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
