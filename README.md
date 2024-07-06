@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajan Dhariyaparmar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" width="200" height="200" src="[https://picsum.photos/100/100](https://i.ibb.co/jLrCzJH/Code-Coding-GIF-Code-Coding-Programming-Discover-Share-GIFs.gif)">
-
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React, MongoDb, .Net, PostgreSQL**
 
