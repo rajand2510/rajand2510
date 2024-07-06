@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajan Dhariyaparmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 ![1656679844338](https://github.com/rajand2510/rajand2510/assets/100859536/9d0fe90a-81f7-492c-b1b0-a5224137cb7d)
 
 - 🌱 I’m currently learning **AngularJS,.Net, PostgreSQL**
