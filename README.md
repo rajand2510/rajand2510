@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajan Dhariyaparmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![1656679844338](https://github.com/rajand2510/rajand2510/assets/100859536/9d0fe90a-81f7-492c-b1b0-a5224137cb7d)
 
 - 🌱 I’m currently learning **AngularJS,.Net, PostgreSQL**
 
 - 📫 How to reach me **rajandalvadi2510@gmail.com**
-<p align="center">
-  <img src="https://images.app.goo.gl/actPxDRFwFHgSL299" alt="Banner">
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/2dalvadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2dalvadi" height="30" width="40" /></a>
